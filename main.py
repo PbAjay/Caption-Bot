@@ -19,7 +19,7 @@ start_message = """
 <b>ᴄʀᴇᴀᴛᴇᴅ ʙʏ @TG_Spider</b>"""
 
 about_message = """
-<b>• ɴᴀᴍᴇ : <a href=https://t.me/{username}></a></b>
+<b>• ɴᴀᴍᴇ : <a href=https://t.me/{username}</a></b>
 <b>• ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/TG_Spider>Tɢ Sᴘɪᴅᴇʀ</a></b>
 <b>• ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3</b>
 <b>• ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ ᴠ{version}</b>
