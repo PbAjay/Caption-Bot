@@ -19,7 +19,7 @@ start_message = """
 <b>ᴄʀᴇᴀᴛᴇᴅ ʙʏ @TG_Spider</b>"""
 
 about_message = """
-<b>• ɴᴀᴍᴇ : <a href=https://t.me/{username}>ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ</a></b>
+<b>• ɴᴀᴍᴇ : <a href=https://t.me/{username}></a></b>
 <b>• ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/TG_Spider>Tɢ Sᴘɪᴅᴇʀ</a></b>
 <b>• ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3</b>
 <b>• ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ ᴠ{version}</b>
@@ -73,10 +73,8 @@ def get_file_details(update: pyrogram.types.Message):
 def start_buttons(bot, update):
   bot = bot.get_me()
   buttons = [[
-   pyrogram.types.InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="t.me/Mo_Tech_YT"),
+   pyrogram.types.InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="t.me/MalluHubYT"),
    pyrogram.types.InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
-   ],[
-   pyrogram.types.InlineKeyboardButton(" Add To Your Channel ", url=f"http://t.me/{bot.username}?startchannel=true")
    ]]
   return pyrogram.types.InlineKeyboardMarkup(buttons)
 
