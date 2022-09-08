@@ -13,14 +13,14 @@ AutoCaptionBotV1 = pyrogram.Client(
    name="AutoCaptionBotV1", api_id=app_id, api_hash=api_hash, bot_token=bot_token)
 
 start_message = """
-<b>👋Hello {}</b>
-<b>I am an AutoCaption bot</b>
-<b>All you have to do is add me to your channel and I will show you my power</b>
-<b>@Mo_Tech_YT</b>"""
+<b>👋ʜᴇʟʟᴏ {}</b>
+<b>ɪ ᴀᴍ ᴀɴ ᴀᴜᴛᴏ ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ</b>
+<b>ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɪ ᴡɪʟʟ sʜᴏᴡ ᴍʏ ᴘᴏᴡᴇʀ</b>
+<b>ᴄʀᴇᴀᴛᴇᴅ ʙʏ @TG_Spider</b>"""
 
 about_message = """
-<b>• ɴᴀᴍᴇ : [ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ](t.me/{username})</b>
-<b>• ᴄʀᴇᴀᴛᴏʀ : [Tɢ Sᴘɪᴅᴇʀ](https://t.me/TG_Spider)
+<b>• ɴᴀᴍᴇ : <a href=https://t.me/{username}>ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ</a></b>
+<b>• ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/TG_Spider>Tɢ Sᴘɪᴅᴇʀ</a></b>
 <b>• ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3</b>
 <b>• ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ ᴠ{version}</b>
 <b>• ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/MalluHubYT>ᴍᴀʟʟᴜʜᴜʙʏᴛ</a></b>
