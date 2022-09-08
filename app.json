@@ -1,0 +1,43 @@
+{
+    "name": "Caption Bot",
+    "description": "Caption BoT @TG_Spider",
+    "logo": "https://graph.org/file/a3a93ffb7283578499cce.jpg",
+    "keywords": [
+        "Private",
+        "Auto",
+        "Caption",
+        "Bot"
+    ],
+    "website": "https://t.me/MalluHubYT",
+    "repository": "https://github.com/PbAjay/Caption-Bot",
+    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "env": {
+        "app_id": {
+            "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "value": ""
+        },
+        "api_hash": {
+            "description": "Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "value": ""
+        },
+        "bot_token": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""        
+        },
+        "custom_caption": {
+            "description": "Caption Text.  use {file_name} to get original file name",
+            "required": false       
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
