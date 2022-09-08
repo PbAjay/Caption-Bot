@@ -1,4 +1,4 @@
-## <b>𝙈𝙏 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
+## <b>𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
 
 This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel
 
@@ -6,13 +6,13 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/PR0FESS0R-99/AutoCaptionBot-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/PR0FESS0R-99/AutoCaptionBot-V1?style=social">
+  <a href="https://github.com/PbAjay/Caption-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/PbAjay/Caption-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/PR0FESS0R-99/AutoCaptionBot-V1/fork">
-    <img src="https://img.shields.io/github/forks/PR0FESS0R-99/AutoCaptionBot-V1?label=Fork&style=social">
+  <a href="https://github.com/PbAjay/Caption-Bot/fork">
+    <img src="https://img.shields.io/github/forks/PbAjay/Caption-Bot?label=Fork&style=social">
 
   </a>  
 </p>
